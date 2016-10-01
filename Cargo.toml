@@ -1,0 +1,9 @@
+[package]
+name = "motivations"
+description = "a collection of motivating messages"
+version = "1.0.1"
+authors = ["Ashley Williams <ashley666ashley@gmail.com>"]
+license = "MIT"
+respository = "https://github.com/ashleygwilliams/rust-motivations"
+
+[dependencies]
