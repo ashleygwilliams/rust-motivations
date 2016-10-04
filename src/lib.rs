@@ -60,4 +60,5 @@ pub static MOTIVATIONS: [&'static str; 61] = [
   , "Alright , let's go"
   , "Don't hate, caffeinate"
   , "Keep Pushing!"
+  , "It's okay to be a little RUSTy today; look how far you'vve come!"
 ];
