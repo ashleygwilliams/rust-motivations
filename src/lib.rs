@@ -1,4 +1,4 @@
-pub static MOTIVATIONS: [&'static str; 61] = [
+pub static MOTIVATIONS: [&'static str; 64] = [
     "don't worry. no one actually knows what they're doing."
   , "this is Hard Stuff, but you can do it!"
   , "getting started is hard, you did it, congratulations!"
@@ -61,4 +61,6 @@ pub static MOTIVATIONS: [&'static str; 61] = [
   , "Don't hate, caffeinate"
   , "Keep Pushing!"
   , "It's okay to be a little RUSTy today; look how far you'vve come!"
+  , "If C is like playing with knives & C++ is like juggling chainsaws, Rust is like parkour while suspended on strings. You'll look ridiculous at times, but can do all sorts of crazy moves scary to impossible without it."
+  , "Be the person you'd like to meet one day"
 ];
