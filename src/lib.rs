@@ -61,4 +61,5 @@ pub static MOTIVATIONS: [&'static str; 61] = [
   , "Don't hate, caffeinate"
   , "Keep Pushing!"
   , "It's okay to be a little RUSTy today; look how far you'vve come!"
+  , "You're good. Keep going and you will discover what apostrophes do in Rust"
 ];
