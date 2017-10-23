@@ -1,0 +1,26 @@
+language: rust
+
+rust:
+  - nightly-2017-10-18
+
+dist: trusty
+sudo: required
+
+env:
+  global:
+  - RUSTFMT_VERS=0.9.0
+
+cache:
+  directories:
+  - $HOME/.cargo
+  - $HOME/.local
+  - $TRAVIS_BUILD_DIR/target
+
+install: |
+  rustfmt -V | grep $RUSTFMT_VERS || cargo install rustfmt --vers $RUSTFMT_VERS --force
+  rust-semverver -V || cargo install --force --git https://github.com/ibabushkin/rust-semverver
+
+script: |
+  cargo check
+  cargo semver
+  cargo fmt -- --write-mode=diff
