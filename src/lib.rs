@@ -65,5 +65,5 @@ pub static MOTIVATIONS: [&'static str; 67] = [
   , "Be the person you'd like to meet one day"
 	, "RailsClub 2016 was rusted <3"
   , "You're good. Keep going and you will discover what apostrophes do in Rust"
-  , "Of Course We Sill Love You"
+  , "Of Course We Still Love You"
 ];
