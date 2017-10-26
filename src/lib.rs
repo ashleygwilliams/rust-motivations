@@ -41,7 +41,7 @@ pub static MOTIVATIONS: [&'static str; 66] = [
   , "You've got 99 problems but rust ain't one"
   , "Hakuna Matata!"
   , "Reboot your life, everyday"
-  , "\"May the force be with you, Node\"-JavaScript"
+  , "\"May the force be with you, Ferris\""
   , "Alright!! Way to go!!"
   , "The expert at anything, was once a beginner."
   , "les petit ruisseaux font les grandes rivieres" 
