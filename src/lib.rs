@@ -44,7 +44,7 @@ pub static MOTIVATIONS: [&'static str; 66] = [
   , "\"May the force be with you, Node\"-JavaScript"
   , "Alright!! Way to go!!"
   , "The expert at anything, was once a beginner."
-  , "les petit ruisseaux font les grandes rivieres" 
+  , "les petit ruisseaux font les grandes rivieres"
   , "It's never too late!"
   , "Who's awesome? YOU'RE AWESOME!!!"
   , "did you ever know that you're my hero? you're everything i would like to be."
@@ -66,4 +66,5 @@ pub static MOTIVATIONS: [&'static str; 66] = [
 	, "RailsClub 2016 was rusted <3"
   , "You're good. Keep going and you will discover what apostrophes do in Rust"
   , "Of Course We Sill Love You"
+  , "They're good dogs, Bront."
 ];
